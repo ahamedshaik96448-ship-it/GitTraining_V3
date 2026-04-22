@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 comparision 2
 Comparision 3
 
+=======
+This is the new file created for testing the revert command
+>>>>>>> parent of f68bc18 (Revert "new commit")
